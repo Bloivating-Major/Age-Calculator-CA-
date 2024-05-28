@@ -4,11 +4,11 @@ Welcome to Age Calculator! I am thrilled that you're interested in contributing 
 
 ## Reporting Bugs
 
-If you encounter a bug while using Age Calculator, please help me by [opening an issue](link_to_issues) on GitHub. When reporting bugs, please include as much information as possible, such as steps to reproduce the issue, expected behavior, and screenshots if applicable.
+If you encounter a bug while using Age Calculator, please help me by [opening an issue](https://github.com/Bloivating-Major/Age-Calculator-CA-/issues) on GitHub. When reporting bugs, please include as much information as possible, such as steps to reproduce the issue, expected behavior, and screenshots if applicable.
 
 ## Requesting Features
 
-Have an idea for a new feature or improvement? [Open an issue](link_to_issues) on GitHub and let me know! I welcome feature requests and appreciate any feedback on how i can enhance Age Calculator to better meet your needs.
+Have an idea for a new feature or improvement? [Open an issue](https://github.com/Bloivating-Major/Age-Calculator-CA-/issues) on GitHub and let me know! I welcome feature requests and appreciate any feedback on how i can enhance Age Calculator to better meet your needs.
 
 ## Contributing Code
 
@@ -19,7 +19,7 @@ I welcome contributions from the community! If you'd like to contribute code to 
 3. Create a new branch for your changes: `git checkout -b feature-name`.
 4. Make your changes and commit them to your branch.
 5. Push your changes to your forked repository: `git push origin feature-name`.
-6. [Open a pull request](link_to_pull_requests) on GitHub with a detailed description of your changes.
+6. [Open a pull request](https://github.com/Bloivating-Major/Age-Calculator-CA-/pulls) on GitHub with a detailed description of your changes.
 
 Before submitting a pull request, please ensure that your code follows my coding style guidelines and that all tests pass. I'll review your pull request as soon as possible and provide feedback if needed.
 
