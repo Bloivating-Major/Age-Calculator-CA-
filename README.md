@@ -67,11 +67,11 @@ Input your birthdate in the provided field, click on the "Calculate Age" button 
 
 
 ### Technologies 
-React
-Vite
-Tailwind CSS
-JavaScript
-CSS
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
+- CSS
 
 
 ### Learning 
@@ -91,14 +91,14 @@ Contributions are welcome! Please follow the guidelines outlined in [Contributin
 This project is licensed under the [MIT License](./LICENSE)
 
 ### Credits
-Developer: Sambhav Wakhariya
-Inspiration: This project is my first task as an intern at [CodeAlpha Company](https://www.codealpha.tech/)
+- Developer: Sambhav Wakhariya
+- Inspiration: This project is my first task as an intern at [CodeAlpha Company](https://www.codealpha.tech/)
 
 ### Contact
 For any inquiries or feedback, feel free to reach out:
 
-Email: [sambhav12wakhariya@gmail.com](mailto:sambhav12wakhariya@gmail.com)
-GitHub: [bloivatingmajor](https://github.com/Bloivating-Major)
+- Email: [sambhav12wakhariya@gmail.com](mailto:sambhav12wakhariya@gmail.com)
+- GitHub: [bloivatingmajor](https://github.com/Bloivating-Major)
 
 ```
 Make sure to update any other project-specific details as needed. This guide provides clear instructions for new users to clone the repository, install dependencies, start the Vite development server, and access and use the app locally.
