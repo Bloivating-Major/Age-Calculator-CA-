@@ -16,10 +16,10 @@ The Age Calculator App is a React application built with Vite that allows users 
 
 ### Screenshots
 
-![Screenshot](/Age%20Calculator/src/assets/Light%20Mode%20Ui.png)
-![Screenshot](/Age%20Calculator/src/assets/Night%20Mode%20Ui.png)
-![Screenshot](/Age%20Calculator/src/assets/Light%20Mode%20Error.png)
-![Screenshot](/Age%20Calculator/src/assets/Night%20Mode%20Error.png)
+![Light Mode Ui](https://github.com/Bloivating-Major/Age-Calculator-CA-/assets/102620496/292092d2-f28d-4ecf-87e0-4c6eb10701e5)
+![Night Mode Ui](https://github.com/Bloivating-Major/Age-Calculator-CA-/assets/102620496/15915618-ffd9-48b5-8fd9-cf61e3c717ae)
+![Light Mode Error](https://github.com/Bloivating-Major/Age-Calculator-CA-/assets/102620496/1a6ee8be-319c-40f1-936c-11416fac5f2a)
+![Night Mode Error](https://github.com/Bloivating-Major/Age-Calculator-CA-/assets/102620496/6895545b-a7d6-4b0d-bf20-9302b7b82df6)
 
 ### Installation
 
