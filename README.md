@@ -4,7 +4,7 @@
 
 <br />
 
-![Preview](https://bloivating-major.github.io/Age-Calculator-CA-/)
+[Preview](https://bloivating-major.github.io/Age-Calculator-CA-/)
 
 ### Overview
 
